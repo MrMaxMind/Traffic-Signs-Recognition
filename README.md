@@ -6,7 +6,7 @@ This project aims to recognize traffic signs using a Convolutional Neural Networ
 ---
 
 <div align="center">
-  <img src="./images/food_image.jpg" alt="Traffic Sign Recognition" style="border:none;">
+  <img src="./sign.png" alt="Traffic Sign Recognition" style="border:none;">
 </div>
 
 ---
