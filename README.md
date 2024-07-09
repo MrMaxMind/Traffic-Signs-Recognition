@@ -35,7 +35,7 @@ A Convolutional Neural Network is a type of deep learning model particularly eff
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/Traffic-Signs-Recognition.git
+   git clone https://github.com/MrMaxMind/Traffic-Signs-Recognition.git
    cd Traffic-Signs-Recognition
 2. **Install the required packages**:
    ```bash
